@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/lakshit1/intellij-community?style=flat)
+
 # IntelliJ IDEA Community Edition [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 These instructions will help you build IntelliJ IDEA Community Edition from source code, which is the basis for IntelliJ Platform development.
 The following conventions will be used to refer to directories on your machine:
